@@ -12,7 +12,7 @@ def home():
             <title>Simple Flask App</title>
         </head>
         <body>
-            <h1>ITS ME YA BOY CYAN</h1>
+            <h1>ITS me Qasim</h1>
             <p>VERCEL SCENES!!!.</p>
         </body>
         </html>
